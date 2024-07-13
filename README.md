@@ -1,5 +1,6 @@
 _Machine Translation_ / Mesin Penerjemah
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sebuah program penerjemah berbasis bahasa pemrograman Python
 
 _A translate prgram that run in Python language._
@@ -13,6 +14,7 @@ Sebelum menjalankan programnya, pastikan untuk menginstall library diatas terleb
 
 _Before running the program, make sure to install the package/library above by using terminal_"pip install (package name)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Untuk pilihan bahasa pada program ini tersedia 5 bahasa, yaitu:
 
 _Now we only got 5 language here, its:_
