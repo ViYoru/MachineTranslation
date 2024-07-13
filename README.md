@@ -7,8 +7,9 @@ _A translate prgram that run in Python language._
   1. deep_translator
   2. gtts
   3. PyQt5
-  Sebelum menjalankan programnya, pastikan untuk menginstall library diatas terlebih dahulu pada terminal anda "pip install (nama library)"
-  _Before running the program, make sure to install the package/library above by using terminal_"pip install (package name)
+
+Sebelum menjalankan programnya, pastikan untuk menginstall library diatas terlebih dahulu pada terminal anda "pip install (nama library)"
+_Before running the program, make sure to install the package/library above by using terminal_"pip install (package name)
 
 Untuk pilihan bahasa pada program ini tersedia 5 bahasa, yaitu:
 _Now we only got 5 language here, its:_
